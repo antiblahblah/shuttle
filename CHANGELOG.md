@@ -15,6 +15,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - @blackadmin version typos in about window. 
 - @ChrisMoriarty add the ability to set the terminal window position and size
 
+## [1.3.0] - 2025-05-27
+### Added
+- Added support for Apple Silicon M1/M2
+
 ## [1.2.9] - 2016-10-18
 ### Added
 - @pluwen added Chinese language translations #185
