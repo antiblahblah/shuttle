@@ -17,7 +17,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [1.3.0] - 2025-05-27
 ### Added
-- Added support for Apple Silicon M1/M2
+- Support for Apple Silicon chips is being prepared.
 
 ## [1.2.9] - 2016-10-18
 ### Added
